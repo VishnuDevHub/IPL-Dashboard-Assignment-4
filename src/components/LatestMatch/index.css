@@ -1,0 +1,61 @@
+/* Write your CSS here */
+
+.latest-match-container {
+  background-color: #0f172a;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 40px;
+  border-radius: 10px;
+}
+
+.team-heading-1 {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 31px;
+  font-weight: 500;
+  font-family: 'Bree Serif';
+}
+
+.date {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 500;
+  font-family: 'Bree Serif';
+}
+
+.para-small {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+  font-family: 'Bree Serif';
+}
+
+.competing-team-img {
+  width: 19%;
+}
+
+.para-h1 {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 22px;
+  font-weight: 600;
+  font-family: 'Bree Serif';
+}
+
+.para-ans {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+  font-family: 'Bree Serif';
+}
+
+.latest-match-container {
+}
+
+.team-innings-container {
+  text-align: right;
+}

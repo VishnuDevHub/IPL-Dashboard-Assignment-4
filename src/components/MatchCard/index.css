@@ -1,0 +1,53 @@
+/* Write your CSS here */
+
+.match-card-item-container {
+  list-style-type: none;
+  padding-left: none;
+  background-color: #0f172a;
+  padding: 12px;
+  border-radius: 9px;
+  width: 30%;
+  margin-right: 37px;
+  margin-bottom: 37px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+
+.heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 500;
+  font-family: 'Bree Serif';
+}
+
+.para-h1 {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 22px;
+  font-weight: 600;
+  font-family: 'Bree Serif';
+}
+
+.red-res {
+  color: #e31a1a;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 500;
+  font-family: 'Bree Serif';
+}
+
+.green-res {
+  color: #18ed66;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 500;
+  font-family: 'Bree Serif';
+}
+
+.team-logo {
+  width: 35%;
+}

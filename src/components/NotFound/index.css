@@ -1,0 +1,18 @@
+/* Write your CSS here */
+
+.bg-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.team-heading-1 {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 31px;
+  font-weight: 500;
+  font-family: 'Bree Serif';
+}

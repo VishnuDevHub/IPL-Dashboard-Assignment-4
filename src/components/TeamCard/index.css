@@ -1,0 +1,36 @@
+/* Write your CSS here */
+
+.team-list-item {
+  display: flex;
+  align-items: center;
+  padding: 30px;
+  list-style-type: none;
+  border: 2px solid #ffffff33;
+  background-color: transparent;
+  border-radius: 8px;
+  text-decoration: none;
+  width: 450px;
+  height: 180px;
+  margin: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.team-img {
+  width: 110px;
+  margin-right: 5px;
+}
+
+.name {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 33px;
+  font-weight: 600;
+  text-decoration: none;
+  text-align: center;
+}
+
+.link-style {
+  text-decoration: none;
+}
